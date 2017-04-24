@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="email">email</string>
+    <string name="senha">senha</string>
+    <string name="fechar_e_voltar">fecahr_e_voltar</string>
+    <string name="erro_login">Entre com os dados corretamente!</string>
+    <string name="btnLogar">Logar</string>
+    <string name="masculino">masculino</string>
+    <string name="feminino">feminino</string>
+    <string name="sobrenome">sobrenome</string>
+    <string name="nome">nome</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="gravar_dados">gravar Dados</string>
+    <string name="dadosConta">Fiap - Dados da compra</string>
+    <string name="gravar_arquivo">Gravar Arquivo</string>
+    <string name="voltar">Voltar</string>
+    <string name="validacao_cadastro">Digite os dados corretamente</string>
+    <string name="exclusao_ok">Exclusao efetuada com sucesso</string>
+    <string name="cadastro_ok">Cadastro efetuado com sucesso</string>
+    <string name="login_ok">Dados Login</string>
+    <string name="login_nok">Dados inexistentes</string>
+    <string name="arquivo_ok">Arquivo OK</string>
+    <string name="arquivo_nok">Arquivo NOK</string>
+    <string name="exclusao_arq_ok">Nao foi possivel excluir o arquivo</string>
+    <string name="exclusao_arq_nok">Falha ao excluir</string>
+</resources>

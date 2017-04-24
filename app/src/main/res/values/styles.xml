@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppCompact.FullScreen" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="android:windowFullscreen">
+            true
+        </item>
+
+    </style>
+
+    <style name="CorBonita">
+
+        <item name="android:background">#686868</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+
+</resources>
